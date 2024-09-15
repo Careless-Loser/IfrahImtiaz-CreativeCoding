@@ -1,7 +1,3 @@
-Certainly! Here’s a professional README for your creative coding projects using p5.js:
-
----
-
 # Creative Coding Projects
 
 Welcome to my collection of creative coding projects! This repository features a series of interactive visualizations and dynamic sketches developed using the p5.js library. Each project is a unique exploration of artistic expression through code, utilizing the powerful capabilities of JavaScript and the p5.js framework.
